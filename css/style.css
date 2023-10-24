@@ -1906,7 +1906,7 @@ ol {
 
 .trainer-item .ti-pic .ti-links {
 	position: absolute;
-	left: -50px;
+	left: 10px;
 	top: 20px;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -1923,10 +1923,10 @@ ol {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	width: 40px;
+	width: 70px;
 	height: 40px;
 	font-size: 16px;
-	color: #afb4bf;
+	color: #000000;
 	background: #ffffff;
 	margin-bottom: 10px;
 	border-radius: 2px;
